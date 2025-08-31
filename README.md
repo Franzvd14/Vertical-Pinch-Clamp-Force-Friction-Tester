@@ -6,4 +6,4 @@ Project Scope: My former employer was requesting the team to integrate and refur
 
 Project Info: Due to the machine being older, it's operating system was stored on a floppy disk and which prevented the tester from starting up. To resolve this, the program from the floppy disk was successfully extracted to a USB drive. From here the windows operating system was changed, so that the startup command initiated the friction tester software directly from the USB, bypassing the use for the outdated floppy disk. The picture below shows the BIOS information screen, where the machine was changed from it's "first boot drive" from floppy disk to USB Drive.
 
-
+[Testing BIOS Screen](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/IMG_1741%20(1).jpg)
