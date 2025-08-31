@@ -1,2 +1,7 @@
 # Vertical-Pinch-Clamp-Force-Friction-Tester
-Developed a calibration procedure and Standard Operating Procedure (SOP) for a vertical pinch clamp friction tester, including custom tooling design, to ensure repeatable and accurate test results.
+Intro: Developed a calibration procedure and Standard Operating Procedure (SOP) for a vertical pinch clamp friction tester, including custom tooling design, to ensure repeatable and accurate test results. The tester presented many hardware and setup challenges, which are discusesd below in greater detail.
+
+Project Scope: My former employer was requesting the team to integrate and refurbish a vertical pinch clamp force tester used to measure a medical device's coating performance. Upon recieving the vertical friction tester it was not functioning properly and had significant software issues. The software issues stemmed from the use of an outdated floppy disk. Furthermore, the performance of the friction tester had to be calibrated. Due to the sophistation of the machine, a calibration protocal had to be made to calibrate the movement of the tester in the vertical direction, the movement of the pinch clamp force, and most importantly the friction force sensor. 
+
+
+Project Info: Due to the machine being older, it's operating system was stored on a floppy disk and which prevented the tester from starting up. To resolve this, the program from the floppy disk was successfully extracted to a USB drive. From here the windows operating system was changed, so that the startup command initiated the friction tester software directly from the USB, bypassing the use for the outdated floppy disk.
