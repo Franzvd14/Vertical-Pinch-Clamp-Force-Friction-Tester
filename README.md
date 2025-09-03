@@ -14,4 +14,4 @@ Pinch Clamp Force Sensor Calibration: The force clamp assembly had a relatively 
 
 [L-Bracket Design](https://github.com/Franzvd14/Vertical-Pinch-Clamp-Force-Friction-Tester/blob/main/L%20Bracket.pdf)
 [FEA Stress Analysis](https://github.com/Franzvd14/Vertical-Pinch-Clamp-Force-Friction-Tester/blob/main/IMG_6392.jpg)
-[FEA F_x, F_y, F_z](https://github.com/Franzvd14/Vertical-Pinch-Clamp-Force-Friction-Tester/blob/main/IMG_6392.jpg)
+[FEA F_x, F_y, F_z](https://github.com/Franzvd14/Vertical-Pinch-Clamp-Force-Friction-Tester/blob/main/Screenshot%202025-08-31%20171722.png)
