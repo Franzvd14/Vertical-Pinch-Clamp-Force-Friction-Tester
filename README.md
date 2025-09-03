@@ -22,4 +22,4 @@ After creating the design, FEA was performed. The applied force load was 2lbs an
 
 [FEA F_x, F_y, F_z](https://github.com/Franzvd14/Vertical-Pinch-Clamp-Force-Friction-Tester/blob/main/Screenshot%202025-08-31%20171722.png)
 
-Here, a force analysis was done on the x,y, and z axis to understand more on how the load was distributed into the force sensor. 
+Here, a force analysis was done on the x,y, and z axis to understand more on how the load was distributed into the force sensor. MORE to come soon...
